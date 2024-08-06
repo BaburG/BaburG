@@ -30,7 +30,7 @@ The first time I ever learned how to code was through Khan Academy's drawing wit
 
 ## 📫 How to reach me
 
-- Email: [your-email@example.com](mailto:babur.g@hotmail.com)
+- Email: [Babur.G@hotmail.com](mailto:babur.g@hotmail.com)
 
 ---
 
