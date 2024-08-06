@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hey there! I'm Babur Gür
 
-<!--
-**BaburG/BaburG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a senior student at Yasar University in Izmir, and I've also studied at the University of Prince Edward Island.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I love coding and solving problems, especially challenges like Advent of Code.
+- 🛠️ Finding practical solutions to everyday problems through code is my passion.
+- 🌟 I have strong knowledge in **Java** and **Python**.
+
+## 🌱 What I'm Working On
+
+- [TBA] 🚧 Stay tuned for some exciting projects!
+
+## 🎉 Fun Fact
+
+The first time I ever learned how to code was through Khan Academy's drawing with code course! 🎨✨
+
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/babur-gur)
+
+## 📈 GitHub Stats
+
+![Babur's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaburG&show_icons=true&theme=radical)
+
+## 🔥 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaburG&layout=compact&theme=radical)
+
+## 📫 How to reach me
+
+- Email: [your-email@example.com](mailto:your-email@example.com)
+
+---
+
+⭐️ From [BaburG](https://github.com/BaburG)
