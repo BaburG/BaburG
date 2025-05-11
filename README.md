@@ -1,43 +1,31 @@
+# Hi there, I'm Babür Gür 👋
 
-# 👋 Hey there! I'm Babur Gür
+I'm a software engineer with a strong focus on building scalable applications and services. My work spans backend development, cloud infrastructure, and applied machine learning. I enjoy solving real-world problems through simple, thoughtful solutions.
 
-🎓 I'm a senior student at Yasar University in Izmir and have also studied at the University of Prince Edward Island.
+## 🚀 Current Focus
 
-## 🚀 About Me
+* Leading **Roaport**, a civic tech project improving road safety and transparency.
+* Building full-stack applications with modern tools and clean architecture.
+* Designing and deploying cloud-native services across Azure and AWS.
 
-- 💻 Passionate about coding and problem-solving, especially through challenges like Advent of Code.
-- 🛠️ I thrive on finding practical solutions to everyday problems using code.
-- 🌟 Proficient in **Java** and **Python**, and have experience building apps in **React Native with Expo**.
-- 🤖 Enthusiastic about **Deep Learning** and **Machine Learning**, creating models using **TensorFlow**.
-- 🌐 Skilled in building **RESTful APIs**, working with **Docker Compose**, and implementing **CI/CD** pipelines.
+## 💼 Skills Snapshot
 
-## 🌱 What I'm Working On
+* **Languages:** Python, JavaScript/TypeScript, SQL
+* **Frameworks:** FastAPI, Next.js, React Native
+* **Cloud:** Azure, AWS, Cloudflare
+* **Tools:** Docker, GitHub Actions, RabbitMQ, Keycloak
+* **ML:** YOLO-based object detection, image classification
 
-- 🛠️ Developing modern web and mobile applications with FastAPI and integrating machine learning models.
+## 📚 Background
 
-## 🎉 Fun Fact
+* Final-year Software Engineering student at Yaşar University
+* 3 Years of Computer Science in Canada (UofM and UPEI)
+* Experienced in full-stack development, DevOps, and civic-tech projects
 
-The first time I ever learned how to code was through Khan Academy's drawing with code course! 🎨✨
+## 📫 Connect With Me
 
-## 📈 GitHub Stats
+Always open to meaningful collaboration or just a chat about interesting ideas.
 
-[![Babur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BaburG&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/BaburG)
+---
 
-## 🔥 Top Languages
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BaburG&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/BaburG)
-
-## 🌟 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=BaburG&theme=onedark&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-## 🌐 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/babur-gur-194200147)
-
-## 📫 How to reach me
-
-- Email: [Babur.G@hotmail.com](mailto:babur.g@hotmail.com)
-
-⭐️ From [BaburG](https://github.com/BaburG)
+Thanks for stopping by!
